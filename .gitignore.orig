@@ -1,12 +1,16 @@
-<<<<<<< vanjabranch
-#Ignore thumbnails created by Windows
+<<<<<<< HEAD
 =======
+#Ignore thumbnails created by Windows
+
+>>>>>>> vanjagitnewrepo/vanjabranch
 ##vanja
 ##opet
 #adding to master branch new line
 #ADDING TO NEWBRANCH NEW LINE
 #adding new line to master branch
 #again adding new line to master branch
+<<<<<<< HEAD
+=======
 #line to newbranch
+>>>>>>> vanjagitnewrepo/vanjabranch
 #line to master
->>>>>>> local
